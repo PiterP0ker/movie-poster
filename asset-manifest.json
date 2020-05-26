@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "//piterp0ker.github.io/movie-poster/static/css/main.cab8b1b3.chunk.css",
+    "main.js": "//piterp0ker.github.io/movie-poster/static/js/main.36cbc534.chunk.js",
+    "main.js.map": "//piterp0ker.github.io/movie-poster/static/js/main.36cbc534.chunk.js.map",
+    "runtime-main.js": "//piterp0ker.github.io/movie-poster/static/js/runtime-main.f73d45be.js",
+    "runtime-main.js.map": "//piterp0ker.github.io/movie-poster/static/js/runtime-main.f73d45be.js.map",
+    "static/css/2.af3c1da9.chunk.css": "//piterp0ker.github.io/movie-poster/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.339b993c.chunk.js": "//piterp0ker.github.io/movie-poster/static/js/2.339b993c.chunk.js",
+    "static/js/2.339b993c.chunk.js.map": "//piterp0ker.github.io/movie-poster/static/js/2.339b993c.chunk.js.map",
+    "index.html": "//piterp0ker.github.io/movie-poster/index.html",
+    "precache-manifest.caf5e4f2924f8baa058d60b5c6f38a50.js": "//piterp0ker.github.io/movie-poster/precache-manifest.caf5e4f2924f8baa058d60b5c6f38a50.js",
+    "service-worker.js": "//piterp0ker.github.io/movie-poster/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "//piterp0ker.github.io/movie-poster/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.cab8b1b3.chunk.css.map": "//piterp0ker.github.io/movie-poster/static/css/main.cab8b1b3.chunk.css.map",
+    "static/js/2.339b993c.chunk.js.LICENSE.txt": "//piterp0ker.github.io/movie-poster/static/js/2.339b993c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f73d45be.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.339b993c.chunk.js",
+    "static/css/main.cab8b1b3.chunk.css",
+    "static/js/main.36cbc534.chunk.js"
+  ]
+}
